@@ -11,10 +11,10 @@ Within the district summary, there are small changes to the testing percentages.
 ![df_after](https://user-images.githubusercontent.com/101460770/167323563-2b52e85e-dbcf-4e0c-8689-f2d58a793756.PNG)
 
 ## How is the school summary affected?
-Cleaning up the district analysis, removed null data from the table and changed the results of Thomas High Schools test scores within the district.
+- Had to get a new laptop due to failed hard drive, will have to submit again once I can finish reviewing.
 
 ## How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
-- Had to get a new laptop due to failed hard drive, will have to submit again once I can finish reviewing.
+-
 ## How does replacing the ninth-grade scores affect the following:
 -
 -
